@@ -16,9 +16,10 @@ class MyApp extends StatelessWidget {
         accentColor: accentColor,
       ),
       darkTheme: ThemeData(
-          primaryColor: Colors.black38,
-          accentColor: accentColorDark,
-          brightness: Brightness.dark),
+        primaryColor: Colors.black38,
+        accentColor: accentColorDark,
+        brightness: Brightness.dark
+      ),
     );
   }
 }

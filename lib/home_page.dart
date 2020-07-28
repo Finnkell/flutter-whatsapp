@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:whatsapp/config/config.dart';
-import 'package:whatsapp/pages/call_screen.dart';
-import 'package:whatsapp/pages/camera_screen.dart';
-import 'package:whatsapp/pages/chat_screen.dart';
-import 'package:whatsapp/pages/status_screen.dart';
+import 'package:whatsapp/screens/call_screen.dart';
+import 'package:whatsapp/screens/camera_screen.dart';
+import 'package:whatsapp/screens/chat_screen.dart';
+import 'package:whatsapp/screens/status_screen.dart';
 
 class HomePage extends StatelessWidget {
   @override
